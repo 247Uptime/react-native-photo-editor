@@ -19,7 +19,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#000000"
+            android:background="#0E3F51"
             android:gravity="center">
 
             <RelativeLayout
@@ -57,7 +57,7 @@
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="10dp"
                 android:padding="10dp"
-                android:shadowColor="#000000"
+                android:shadowColor="#0E3F51"
                 android:shadowDx="1"
                 android:shadowDy="1"
                 android:shadowRadius="2"
@@ -75,7 +75,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_toStartOf="@+id/done_drawing_tv"
                 android:padding="10dp"
-                android:shadowColor="#000000"
+                android:shadowColor="#0E3F51"
                 android:shadowDx="1"
                 android:shadowDy="1"
                 android:shadowRadius="2"

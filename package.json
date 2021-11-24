@@ -1,12 +1,12 @@
 {
     "name": "react-native-photo-editor-2",
-    "version": "1.0.4",
+    "version": "0.0.5",
     "description": "React Native: Native Photo Editor",
     "main": "index.tsx",
-    "homepage": "https://github.com/prscX/react-native-photo-editor.git",
+    "homepage": "https://github.com/247Uptime/react-native-photo-editor.git",
     "repository": {
         "type": "git",
-        "url": "https://github.com/prscX/react-native-photo-editor.git"
+        "url": "https://github.com/247Uptime/react-native-photo-editor.git"
         
 
 
@@ -17,7 +17,7 @@
     "keywords": [
         "react-native"
     ],
-    "author": "Jawad Khan",
+    "author": "247Uptime",
     "devDependencies": {
         "@types/react": "^17.0.11",
         "@types/react-native": "^0.64.10",
